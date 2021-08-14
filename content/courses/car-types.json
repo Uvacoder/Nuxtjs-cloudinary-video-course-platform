@@ -1,0 +1,45 @@
+{
+  "title": " How to identify different cars",
+  "description": "In this course, we review how different cars are designed, branded and sold",
+  "image": "https://res.cloudinary.com/hackit-africa/image/upload/v1628934860/nuxtjs-video-course-platform/Screenshot_20210810-115622_WhatsApp_ehzh9t.jpg",
+  "lesson": [
+    {
+      "title": "Lesson 1",
+      "description": "",
+      "video_public_id": ""
+    }
+  ],
+  "image_public_id__cloudinary_": "nuxtjs-video-course-platform/how-to-identify-cars/course-preview.jpg",
+  "lessons": [
+    {
+      "template": "lesson",
+      "title": "Lamborghini",
+      "description": "Automobili Lamborghini S.p.A. is an Italian brand and manufacturer of luxury sports cars and SUVs based in Sant'Agata Bolognese. The company is owned by the Volkswagen Group through its subsidiary Audi. Ferruccio Lamborghini, an Italian manufacturing magnate, founded Automobili Ferruccio Lamborghini S.p.A. - Wikipedia",
+      "video_public_id__cloudinary_": "nuxtjs-video-course-platform/how-to-identify-cars/lamborghini"
+    },
+    {
+      "template": "lesson",
+      "title": "BMW",
+      "video_public_id__cloudinary_": "nuxtjs-video-course-platform/how-to-identify-cars/bmw",
+      "description": "Bayerische Motoren Werke AG, commonly referred to as BMW, is a German multinational corporation which produces luxury vehicles and motorcycles headquartered in Munich, Germany."
+    },
+    {
+      "template": "lesson",
+      "title": "Chevrolet",
+      "description": "Chevrolet  colloquially referred to as Chevy and formally the Chevrolet Division of General Motors Company, is an American automobile division of the American manufacturer General Motors (GM).",
+      "video_public_id__cloudinary_": "nuxtjs-video-course-platform/how-to-identify-cars/chevloret"
+    },
+    {
+      "template": "lesson",
+      "description": "Volkswagen shortened to VW is a German motor vehicle manufacturer founded in 1937 by the German Labour Front, known for their iconic Beetle and headquartered in Wolfsburg.",
+      "title": "Volkswagen",
+      "video_public_id__cloudinary_": "nuxtjs-video-course-platform/how-to-identify-cars/volkswagen"
+    },
+    {
+      "template": "lesson",
+      "title": "Mercedes",
+      "video_public_id__cloudinary_": "nuxtjs-video-course-platform/how-to-identify-cars/mercedes",
+      "description": "Mercedes-AMG GmbH, commonly known as AMG, is the high-performance subsidiary of Mercedes-Benz AG.[1] AMG independently hires engineers and contracts with manufacturers to customize Mercedes-Benz AMG vehicles. The company has its headquarters in Affalterbach, Baden-Württemberg, Germany. "
+    }
+  ]
+}

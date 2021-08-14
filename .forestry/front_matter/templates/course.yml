@@ -1,0 +1,39 @@
+---
+label: Course
+hide_body: true
+display_field: title
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  description: Name of the course
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
+  description: Short description of the course
+- name: image_public_id__cloudinary_
+  type: text
+  config:
+    required: false
+  label: Image public id (Cloudinary)
+  description: Upload the image in Cloudinary and place the public_id here.
+- name: lessons
+  type: blocks
+  label: Lessons
+  template_types:
+  - lesson
+  config:
+    min: 
+    max: 
+  description: Lessons in the course
+pages:
+- content/courses/car-types.json
+- content/courses/how-to-identify-dogs.json

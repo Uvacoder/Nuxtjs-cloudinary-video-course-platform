@@ -1,0 +1,27 @@
+---
+label: Lesson
+hide_body: true
+display_field: title
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  description: Title of the lesson
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
+  description: Short description of the lesson
+- name: video_public_id__cloudinary_
+  type: text
+  config:
+    required: false
+  label: Video Public Id (Cloudinary)
+  description: Upload video into Cloudinary and place the public_id here.

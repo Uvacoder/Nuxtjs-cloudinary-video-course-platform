@@ -1,5 +1,8 @@
 # nuxtjs-video-course-platform
 
+npm run generate
+dist
+
 ## Build Setup
 
 ```bash
